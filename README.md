@@ -1,5 +1,5 @@
 # Restaurant-Website-Design
-This project focuses on building a Leon template with HTML and CSS to strengthen my coding skills through hands-on, real-world development experience.
+This project focuses on building a Restaurant template with HTML and CSS to strengthen my coding skills through hands-on, real-world development experience.
 
 ### Preview :
 ###### Home Section:
